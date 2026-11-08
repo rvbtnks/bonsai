@@ -22,7 +22,7 @@ no flags at all.
 
 ---
 
-## ⚠️ LAN only — read this first
+##  LAN only — read this first
 
 **There is no authentication and no encryption.** The protocol is a QOTD
 variant: anyone who can reach port 1717 can read a quote and can claim to be
