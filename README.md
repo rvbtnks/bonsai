@@ -1,4 +1,5 @@
 # bonsai-monitor
+TLDR; THIS IS NOT MEANT FOR ANY KIND OF PROFESSIONAL ENVIRONMENT. JUST TESTING OUT SOME GO THINGS
 
 One ASCII bonsai tree for your whole LAN. A server draws it in your terminal;
 every other machine runs a tiny client that reports four numbers. A healthy
