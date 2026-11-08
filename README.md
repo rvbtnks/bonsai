@@ -5,33 +5,8 @@ every other machine runs a tiny client that reports four numbers. A healthy
 network is a full, trim, green tree. A sick one is sparse, drooping, with red
 patches that need pruning — readable at a glance from an SSH session inside
 tmux.
-
-```
-                                                 @#   *ooo@
-                                          o *@#\ //|\\*#@@**o
-                                         @*o#*@#\\ |oo#*@o*##/   *@*#%o@@
-                                        *o#*@o@@#\\| %@#oo#@/  #*@o#@@@o@#
-                                       *o*##o*@%|  | *@*@**#- %*#**o##%*o@#
-                                       %*%##/@\  | |@o@@o#\*#-@o***o@*#*##o
-                                       %**%/%% \\|  |*o#o**o   @o@@%##@##@o
-                                          \\     |  //@o%@#        \/**@@o
-                                                  \ | /              /   \
-                                                  \ |//
-                                                   \|/
-                                                   \/
-                                                    /
-                                                    |
-                                                    ||
-                                                    |
-                                                    ||
-                                                    ||
-                                         +--------,,|-,-,------+
-                                          \                   /
-                                           `-----------------'
- network 81% thriving  [#####################-----] hosts 8  7 ok  1 warn        up 15s
- q quit    l hosts    ? help
-```
-
+<img width="1232" height="601" alt="Screenshot_20261107_171644" src="https://github.com/user-attachments/assets/26836abc-576f-40b8-bb6f-cab60aba18e6" />
+<img width="1237" height="602" alt="Screenshot_20261107_171620" src="https://github.com/user-attachments/assets/6f6bc327-7c93-4416-9ccf-d5fb0c84983b" />
 Two commands are the whole interface:
 
 ```console
